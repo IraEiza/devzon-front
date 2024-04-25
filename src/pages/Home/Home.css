@@ -1,0 +1,10 @@
+#home {
+  flex: 1;
+  display: flex;
+  overflow-y: scroll;
+  /* overflow-x: hidden; */
+}
+
+#home h2 {
+  text-align: center;
+}

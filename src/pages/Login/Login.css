@@ -1,0 +1,13 @@
+#login {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+#login img {
+  width: 200px;
+}
